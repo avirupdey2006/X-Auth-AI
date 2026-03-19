@@ -1,0 +1,9 @@
+venv/
+.env
+__pycache__/
+*.pyc
+*.pot
+lab/results/
+lab/wordlists/rockyou.txt
+*.hash
+*.log
